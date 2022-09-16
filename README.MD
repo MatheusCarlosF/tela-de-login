@@ -6,7 +6,7 @@
 
 Utilizando conceitos de html e css, além de imagem em formato svg com animações.
 
-[Clique aqui para acessar](https://matheuscarlosf.github.io/TELA-DE-LOGIN/)
+[Clique aqui para acessar](https://matheuscarlosf.github.io/tela-de-login/)
 
 ## Tecnologias
 - HTML
